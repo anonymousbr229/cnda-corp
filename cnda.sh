@@ -27,4 +27,6 @@ echo sua password cndausr6789 >> cnda.txt
 
 echo seu comprovante de membro esta na sua pasta Downloads na sua memoria interna la tem o seu novo e-mail e senha da conta
 
-touch img.png
+cd /data/data/com.termux/files/home/cnda-corp
+
+python cnda.py
